@@ -2,7 +2,7 @@
   <div>
     <div class="conteiner">
       <h1>#contactUs</h1>
-      <p>LEAVE A MESSEGE, we love to hear from you</p>
+      <p>LEAVE A MESSEGE, We love to hear from you</p>
     </div>
   </div>
 </template>
